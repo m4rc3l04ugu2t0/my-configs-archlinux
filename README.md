@@ -1,5 +1,3 @@
-Claro, vou atualizar a seção de particionamento Btrfs conforme solicitado. Aqui está o README revisado com a melhor configuração para Btrfs:
-
 ```markdown
 # Instalação do Arch Linux com Particionamento Btrfs
 
