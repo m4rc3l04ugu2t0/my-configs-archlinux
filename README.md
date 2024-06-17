@@ -1,4 +1,3 @@
-```markdown
 # Instalação do Arch Linux com Particionamento Btrfs
 
 ## Passos de Pré-Instalação
@@ -342,7 +341,5 @@ reboot
 Após reiniciar, você terá o Arch Linux configurado com Btrfs, Snapper para snapshots, zRAM para melhorar o desempenho, além de ferramentas de desenvolvimento como Rust, Python, C/C++, Arduino, editores como LunarVim e Visual Studio Code, terminais como Alacritty, navegadores como Microsoft Edge, fontes FiraCode para o Starship Prompt, VirtualBox para virtualização, OBS Studio para streaming e gravação, um gerenciador de arquivos (Nautilus) e o VLC Media Player para reprodução de mídia.
 
 Certifique-se de ajustar os comandos de instalação conforme necessário para o seu ambiente específico.
-```
-
 
 Este arquivo `README.md` contém todos os passos necessários para configurar seu sistema Arch Linux com todas as ferramentas e configurações solicitadas. Lembre-se de adaptar conforme necessário para o seu ambiente específico ou preferências pessoais.
